@@ -1,0 +1,6 @@
+Create connection to DB - FILE DB 
+
+Create table person with columns id  , first_name , last_name
+Add yourself there with insert
+Add few more members
+Select all and print in Spring app
